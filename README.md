@@ -1,1 +1,1 @@
-# CS2800_Logic-Computation
+# CS2800_Midterm_Project
